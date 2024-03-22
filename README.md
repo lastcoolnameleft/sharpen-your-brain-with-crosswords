@@ -65,7 +65,6 @@ noun: a puzzle consisting of a grid of squares and blanks into which words cross
 
 ---
 
-
 # How/where to play?
 
 - MANY free ones
@@ -86,9 +85,7 @@ noun: a puzzle consisting of a grid of squares and blanks into which words cross
 - Saturday - f-off (Hardest of week)
 - Sunday - grab a friend and spend 1-2 hours together
 
-
 ![bg right:50% h:1100](img/my-streaks.jpeg)
-
 
 ---
 
@@ -121,7 +118,6 @@ For example, for the answer OREO:
 
 Def: A rebus is a puzzle device that combines the use of illustrated pictures with individual letters to depict words or phrases. 
 
-
 ![bg right:50% h:400](img/rebus.png)
 
 ---
@@ -129,7 +125,6 @@ Def: A rebus is a puzzle device that combines the use of illustrated pictures wi
 # Rebus in Crosswords 
 
 Def: "... anything that gets entered in a square that’s not a single letter of the alphabet. Typically, rebuses are parts of themes,” 
-
 
 ![bg right:60% h:700](img/thursday-example-1.jpeg)
 ![bg right:60% h:700](img/thursday-example-2.jpeg)
@@ -143,7 +138,6 @@ Def: "... anything that gets entered in a square that’s not a single letter of
 You can [submit to the NYT Crossword!](https://www.nytimes.com/article/submit-crossword-puzzles-the-new-york-times.html)
 
 Payment varies based on the day of the week and number of puzzles you’ve had published with The New York Times.
-
  
 | Puzzles | Size | Published 1 – 2 | Published 3+ |
 | --- | --- | --- | --- |
@@ -152,7 +146,6 @@ Payment varies based on the day of the week and number of puzzles you’ve had p
 
 Diversity in cultural references — for age, gender, ethnicity, etc. — is desired.
 
-
 ---
 
 # Rules
@@ -160,29 +153,67 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 - All answers must be at least 3 letters long
 - Answers do not have the world in the clue
 - Can be +1 word and/or phrase
+- Horizontally symmetrical
 - Must follow
   - Plurality (-s, -es)
   - Tense (-ed, -ing)
   - Comparison (-er, -est)
 - Sometimes REBUS or tricks (Thurs & Sat)
 
+![bg right:40% h:900](img/friday-example.jpeg)
+
 ---
 
 # Gotchas
 
-- "?" clues - Don't take literally (pun or alternative word)
-  - Example: 8 letters: Job that might involve watching the kids
-- "quoted" clues - Spoken words, not concept
-  - Example: 3 letters: "Just a heads-up ..."
-- "_" clues - Fill in the word
-  - Example: 4 letters: Hip-hop's Wu-Tang _
-- Informal grammar
-  - Example: 4 letters: "How ya _?"
+* "quoted" clues - Another way of saying
+  * "Just a heads-up ..." (3)
+  * "I'll wait to hear from you" (6)
+  * "Hey, you!" (4)
+* "_" clues - Fill in the word
+  * Hip-hop's Wu-Tang _ (4)
+  * Arthur Conan _ (5)
+* "?" clues - Don't take literally (pun or alternative word)
+  * Really not feeling it? (4)
+  * Some military brass? (6)
 
-<!-- GOAT HERD -->  
 <!-- FYI -->  
+<!-- CALL ME -->  
+<!-- PSST -->  
+
 <!-- CLAN -->  
+<!-- DOYLE -->
+
+<!-- NUMB -->
+<!-- BUGLES -->
+
+---
+
+# Be careful
+
+* Informal grammar
+  - "How ya _?" (4)
+  - Fella (3)
+* Homophones
+  - Capital of Italy (4)
+* Language
+  * Dos + cinco (5)
+  * Thanks, in Tours (5)
+* Abbreviations
+  * Equivalent of 16 oz. (5)
+  * Hotel room option: Abbr. (3)
+
 <!-- DOIN -->  
+<!-- BUB -->  
+
+<!-- EURO -->
+
+<!-- SIETE -->
+<!-- MERCI -->
+
+<!-- ONELB -->
+<!-- STE -->
+
 ---
 
 # Guidelines for beginners
@@ -214,12 +245,12 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 
 # DO IT LIVE!
 
+Crosswords are better with friends:
 [The Mini Crossword](https://www.nytimes.com/crosswords/game/mini)
 
 ![bg right:60% w:800](img/mini-crossword.png)
 
 ---
-
 
 # Inspirations / Sources
 
