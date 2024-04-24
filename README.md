@@ -49,7 +49,8 @@ _class: intro-blue
 
 noun: a puzzle consisting of a grid of squares and blanks into which words crossing vertically and horizontally are written according to clues.
 
-![bg right:50% w:600](img/crossword.png)
+![bg right:50% w:300](img/crossword-basic.png)
+![bg right:50% w:300](img/crossword.png)
 
 ---
 
@@ -58,20 +59,23 @@ noun: a puzzle consisting of a grid of squares and blanks into which words cross
 - Keeps our brains active
 - Can be meditative
 - Helps us approach problems differently
-- Learn new words, phrases, concepts, languages
-- Learn about history and culture
+- Learn new words, phrases, languages, history, musicians and culture
+- Sound smarter with greater diction and trivia
 
 <!-- Feeds a lot of my spotify -->
+<!-- e.g. The currency of Laos is the KIP -->
+<!-- e.g. TYRO is another work for beginner or novice -->
 
 ---
 
 # How/where to play?
 
-- MANY free ones
-  - Can even [create your own](https://crosswordlabs.com/)!
-- My favorite:  [NYT Crosswords](https://www.nytimes.com/crosswords)
-  - [The Mini Crossword](https://www.nytimes.com/crosswords/game/mini)
+- [NYT Crossword](https://www.nytimes.com/crosswords) (paid)
+  - Released February 15, 1942
   - NYT Games App (Wordle, Crossword Mini, Sudoku, Connections and more)
+- [The New York Times Mini Crossword](https://www.nytimes.com/crosswords/game/mini) (free)
+- [Vox crosswords](https://www.vox.com/21523212/crossword-puzzles-free-daily-printable) (free)
+- Can even [create your own](https://crosswordlabs.com/)!
 
 ---
 
@@ -84,6 +88,8 @@ noun: a puzzle consisting of a grid of squares and blanks into which words cross
 - Friday - [EASY MODE!](https://www.nytimes.com/newsletters/easy-mode)
 - Saturday - f-off (Hardest of week)
 - Sunday - grab a friend and spend 1-2 hours together
+
+NOTE: Monday - Thursday & Sunday always have a theme
 
 ![bg right:50% h:1100](img/my-streaks.jpeg)
 
@@ -99,7 +105,7 @@ For example, for the answer STRAP:
 
 ---
 
-# NYT Examples
+# NYT Examples (more)
 
 For example, for the answer OREO:
 
@@ -148,16 +154,17 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 
 ---
 
-# Rules
+# [NYT Crossword Conventions](https://en.wikipedia.org/wiki/The_New_York_Times_Crossword)
 
 - All answers must be at least 3 letters long
 - Answers do not have the world in the clue
 - Can be +1 word and/or phrase
-- Horizontally symmetrical
+- Rotational symmetry
 - Must follow
   - Plurality (-s, -es)
   - Tense (-ed, -ing)
   - Comparison (-er, -est)
+  - Abbr.
 - Sometimes REBUS or tricks (Thurs & Sat)
 
 ![bg right:40% h:900](img/friday-example.jpeg)
@@ -174,7 +181,7 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
   * Hip-hop's Wu-Tang _ (4)
   * Arthur Conan _ (5)
 * "?" clues - Don't take literally (pun or alternative word)
-  * Really not feeling it? (4)
+  * Fitness center? (4)
   * Some military brass? (6)
 
 <!-- FYI -->  
@@ -184,7 +191,7 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 <!-- CLAN -->  
 <!-- DOYLE -->
 
-<!-- NUMB -->
+<!-- CORE -->
 <!-- BUGLES -->
 
 ---
