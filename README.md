@@ -73,6 +73,7 @@ noun: a puzzle consisting of a grid of squares and blanks into which words cross
 - [NYT Crossword](https://www.nytimes.com/crosswords) (paid)
   - Released February 15, 1942
   - NYT Games App (Wordle, Crossword Mini, Sudoku, Connections and more)
+  - NOTE: NYT News subscriptions DOES NOT include Games subscription
 - [The New York Times Mini Crossword](https://www.nytimes.com/crosswords/game/mini) (free)
 - [Vox crosswords](https://www.vox.com/21523212/crossword-puzzles-free-daily-printable) (free)
 - Can even [create your own](https://crosswordlabs.com/)!
