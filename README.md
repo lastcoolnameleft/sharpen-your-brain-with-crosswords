@@ -200,10 +200,10 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 # Be careful
 
 * Informal grammar
-  - "How ya _?" (4)
-  - Fella (3)
+  * "How ya _?" (4)
+  * Fella (3)
 * Homophones
-  - Capital of Italy (4)
+  * Capital of Italy (4)
 * Language
   * Dos + cinco (5)
   * Thanks, in Tours (5)
@@ -227,7 +227,7 @@ Diversity in cultural references — for age, gender, ethnicity, etc. — is des
 # Guidelines for beginners
 
 - Start with:
-  - Monday
+  - Mini and/or Monday
   - "Gimmes"
   - Small words
 - Use "pencil mode" for guesses
